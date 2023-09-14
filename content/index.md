@@ -13,3 +13,6 @@ The rest of your content lives here. You can use **Markdown** here :)
 - 构建输出目录：`/public`
 
 感谢 Discord@999WRLD 的帮助！
+
+[[note]]
+[[test]]
