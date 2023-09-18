@@ -14,5 +14,11 @@ The rest of your content lives here. You can use **Markdown** here :)
 
 感谢 Discord@999WRLD 的帮助！
 
+OB.ldd.cc
+obsidian 基于 Obsidian 双链笔记
+observer 公开发布，于你而言这是观察者 OB 视觉
+
+
+[MOC]
 [[note]]
 [[test]]
