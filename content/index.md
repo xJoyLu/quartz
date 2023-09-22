@@ -4,7 +4,7 @@ draft: false
 tags:
   - now
 ---
-![[https://jzhao.xyz/banner.svg]]
+![[banner.png]]
 
 有点像[/now page](https://sivers.org/nowff)，但时间范围更广，专注于我的想法。
 或许可以加入 https://nownownow.com/ :D
