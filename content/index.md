@@ -22,7 +22,7 @@ tags:
 
 如果你倾向于阅读完善的资料，可以浏览我基于 Notion Api 搭建的 [思路](https://si.lu)或是基于 Wordpress 搭建的 [卢东东博客](https://ldd.cc)
 大概的阅读分级如下：
-- [notes.ldd.cc](https://notes.ldd.cc)（可能无法流畅阅读，较多错漏缺失）
+- [ob.ldd.cc](https://ob.ldd.cc)（可能无法流畅阅读，较多错漏缺失）
 - [si.lu](https://si.lu)（流程阅读，但不保证资料引用真实性）
 - [ldd.cc](https://ldd.cc)（商业级审稿，并支持RSS订阅）
 
