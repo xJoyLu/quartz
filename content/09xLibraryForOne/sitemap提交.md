@@ -1,0 +1,24 @@
+# Sitemap提交
+
+- 360好搜URL提交：http://zhanzhang.haosou.com/?m=PageInclude&a=index
+- 百度搜索网址提交入口口：http://zhanzhang.baidu.com/sitesubmit/index
+- 百度死链提交入口：http://zhanzhang.baidu.com/badlink/index
+- 百度信誉申请：http://trust.baidu.com/vstar/feedback
+- 搜狗URL提交：[http://zhanzhang.sogou.com/index.php/urlSubmit/index](http://zhanzhang.sogou.com/index.php/help/sitemap)
+- 360好搜搜索引擎登录入口：http://info.so.360.cn/site_submit.html
+- 360好搜新闻源收录入口：http://info.so.360.cn/news_submit.html
+- 360网站点评平台：http://wangzhan.360.cn/dianping/reg
+- Google网址提交入口：https://www.google.com/webmasters/tools/submit-url?pli=1
+- Google新闻网站内容：http://www.google.com/support/news_pub/bin/request.py?contact_type=suggest_content&hl=cn
+- 搜狗网站收录提交入口:http://www.sogou.com/feedback/urlfeedback.php
+- bing(必应)网页提交登录入口：http://www.bing.com/toolbox/submit-site-url
+- 雅虎中国网站登录口：http://sitemap.cn.yahoo.com/
+- 搜索引擎登陆入口大全：http://www.zui5.com/addurl.html
+- 网易有道搜索引擎登录口：http://tellbot.youdao.com/report
+- 中搜免费登录服务：http://register.zhongsou.com/NetSearch/frontEnd/free_protocol.htm
+- MSN必应网站登录口：http://cn.bing.com/docs/submit.aspx?FORM=WSDD2
+- Alexa网站登录入口：http://www.alexa.com/help/webmasters
+- TOM搜索网站登录口：http://search.tom.com/tools/weblog/log.php
+- 一淘网开放搜索申请入口：http://open.etao.com/apply_intro.htm?spm=0.0.0.0.Voi9lJ
+- 站长之家网站排行榜：http://top.chinaz.com/include.aspx
+- SOSO搜搜网站收录提交入口:http://help.soso.com/help_web_09.shtml

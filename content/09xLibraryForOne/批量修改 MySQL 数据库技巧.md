@@ -1,0 +1,1 @@
+update `table_name` set filed_name = REPLACE(filed_name,"xyz","abc");

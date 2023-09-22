@@ -1,0 +1,1 @@
+[[Parallels Desktop 18.1.0 53311 破解教程（pd18永久授权）]]
